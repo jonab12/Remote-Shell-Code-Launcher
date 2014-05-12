@@ -1,0 +1,7 @@
+Python is client side of sender
+
+C program accepts shellcode from a connected client and executes it. So both are your end. 
+
+https://www.youtube.com/watch?v=FLqPX2ZdZsU
+
+Test multiple shell scripts. Record results and significance
